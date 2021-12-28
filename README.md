@@ -1,3 +1,8 @@
+# This is a super simple React app using a super simple JSX.
+
+## Private Notion memo: 
+### https://www.notion.so/spagettys/React-Basics-and-JSX-5fe2a54e4cec4235b95a4e52dc100fc8
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
