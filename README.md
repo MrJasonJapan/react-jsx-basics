@@ -1,7 +1,7 @@
-# This is a super simple React app using a super simple JSX.
+# This is a super simple React app using super simple JSX.
 
 ## Private Notion memo: 
-### https://www.notion.so/spagettys/React-Basics-and-JSX-5fe2a54e4cec4235b95a4e52dc100fc8
+https://www.notion.so/spagettys/React-Basics-and-JSX-5fe2a54e4cec4235b95a4e52dc100fc8
 
 # Getting Started with Create React App
 
